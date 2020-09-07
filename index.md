@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page!
+
+About me:
+* 2020 certification in data analytics & visualization from Georgia Institute of Technology
+* 2018 PharmD recipient from University of North Carolina in Chapel Hill (ranked #1 in the country!)
+* Experienced pharmacist, licensed in Georgia & North Carolina
+* Native fluency in Mandarin Chinese, moderate fluency in Spanish
+
+Want more information? Please download my CV [here](#).
+
+## Projects
 
 You can use the [editor on GitHub](https://github.com/mariajdong/mariajdong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
