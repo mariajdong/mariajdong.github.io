@@ -6,42 +6,18 @@ About me:
 * Experienced pharmacist, licensed in Georgia & North Carolina
 * Native fluency in Mandarin Chinese, moderate fluency in Spanish
 
-Want more information? Please download my CV [here](#).
+Want more information? Download my CV [here](#).
+
+## Technical Skills
+**Tools**: Python, VBA, MS Excel, HTML, JavaScript
+**Databases**: SQL, MongoDB
 
 ## Projects
 
-You can use the [editor on GitHub](https://github.com/mariajdong/mariajdong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**COVID-19 in Georgia**
+_Link: [https://github.com/mariajdong/georgia-covid](https://github.com/mariajdong/georgia-covid)._
+An analysis of COVID-19 case trends in Georgia, with various visualizations created with Plotly for Python. Takes current literature and legislature into account. Updated at least weekly; still a work in progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariajdong/mariajdong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Georgia Breweries**
+_Link: [https://github.com/mariajdong/georgia-breweries](https://github.com/mariajdong/georgia-breweries)_
+A group project for a data analytics bootcamp with Georgia Tech analyzing brewery locations and potential relationships with nearby demographics. Data pulled from Google Maps and the U.S. Census.
