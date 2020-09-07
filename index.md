@@ -8,16 +8,16 @@ About me:
 
 Want more information? Download my CV [here](#).
 
-## Technical Skills
-**Tools**: Python, VBA, MS Excel, HTML, JavaScript
+### Technical Skills
+**Tools**: Python, VBA, MS Excel, HTML, JavaScript<br>
 **Databases**: SQL, MongoDB
 
-## Projects
+### Projects
 
-**COVID-19 in Georgia**
-_Link: [https://github.com/mariajdong/georgia-covid](https://github.com/mariajdong/georgia-covid)._
+**COVID-19 in Georgia**<br>
+_Link: [https://github.com/mariajdong/georgia-covid](https://github.com/mariajdong/georgia-covid)._<br>
 An analysis of COVID-19 case trends in Georgia, with various visualizations created with Plotly for Python. Takes current literature and legislature into account. Updated at least weekly; still a work in progress.
 
-**Georgia Breweries**
-_Link: [https://github.com/mariajdong/georgia-breweries](https://github.com/mariajdong/georgia-breweries)_
+**Georgia Breweries**<br>
+_Link: [https://github.com/mariajdong/georgia-breweries](https://github.com/mariajdong/georgia-breweries)_<br>
 A group project for a data analytics bootcamp with Georgia Tech analyzing brewery locations and potential relationships with nearby demographics. Data pulled from Google Maps and the U.S. Census.
