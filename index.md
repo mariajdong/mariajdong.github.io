@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page!
+# Welcome to my GitHub Page!
 
 **About me:**
 * 2020 certification in data analytics & visualization from Georgia Institute of Technology
@@ -6,13 +6,13 @@
 * Experienced pharmacist, licensed in Georgia & North Carolina
 * Native fluency in Mandarin Chinese, moderate fluency in Spanish
 
-**Technical Skills**
+**Technical Skills**<br>
 _Tools_: Python, VBA, MS Excel, HTML, JavaScript<br>
 _Databases_: SQL, MongoDB
 
-Want more information? Download my CV [here](#).<br>
+Want more information? Download my CV [here](#).<br><br>
 
-### Projects
+## Projects
 
 **COVID-19 in Georgia**<br>
 _Link to repo: [https://github.com/mariajdong/georgia-covid](https://github.com/mariajdong/georgia-covid)_<br>
